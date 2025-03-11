@@ -2,7 +2,7 @@
 Basic pricing layout page made with bootstrap
 Bootstrap Pricing Page Layout
 
-#Overview
+# Overview
 
 This project is a simple pricing page layout created using Bootstrap. The goal is to design a responsive pricing section using only Bootstrap classes without any custom CSS.
 
